@@ -1,0 +1,3 @@
+﻿  parouimpar.cpp
+D:\projetos visual\parou1mpar\parouimpar.cpp(40,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  parou1mpar.vcxproj -> D:\projetos visual\parou1mpar\x64\Debug\parou1mpar.exe
